@@ -1,0 +1,9 @@
+{
+  "name": "bookstore-server-validation",
+  "version": "1.0.0",
+  "description": "React bookstore with Node/Express server-side validation",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "test": "node test.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "express": "^4.19.2" }
+}
